@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.mysql.console.enabled",
+      "type": "java.lang.String",
+      "description": "Description for spring.mysql.console.enabled."
+  }
+] }
